@@ -1,0 +1,23 @@
+body {
+background-color:rgb(5, 233, 255);
+  font-size: 18px;
+}
+.special {
+  background-color: rgb(255,27,15 );
+
+}
+#bio {
+font-family: fantasy;
+}
+
+li a {/*text decoration*/
+text-decoration:none;
+}
+/*li {
+  display:inline;
+} */
+
+h1, h2 {
+font-family: cursive;
+
+}
