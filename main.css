@@ -4,7 +4,7 @@ background-color:rgb(5, 233, 255);
 }
 .special {
   background-color: rgb(255,27,15 );
-
+text-decoration:none;
 }
 #bio {
 font-family: fantasy;
